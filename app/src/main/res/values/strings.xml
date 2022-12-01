@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Nama Mahasiswa Kelas A TI 21</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_heroes"> NAMA TEMAN KELAS A </string>/>
+    <string name="lorem"> Lorem ipsum dolor sit amet </string>
+    <string name="wahid">Wahid</string>
+
+    <string-array name="data_name">
+        <item>Wahid Radikal Akhlak</item>
+        <item>Muh Fajrin Aljabar</item>
+        <item>Hairul Yasin</item>
+        <item>Syarif Muhammad Syakur</item>
+        <item>Moh Ryhan</item>
+        <item>Moch Zukhruf Ain</item>
+        <item>Edward Crysanthus Jefta Geofrey</item>
+        <item>Mustafa Fauzy Tompoh</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>NIM : F55121022,
+            TTL : Palu, 08 April 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F55121037,
+            TTL : Palu, 21 Juni 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F55121011,
+            TTL : Palu, 14 Mei 2002,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F55121020,
+            TTL : Palu, 11 Januari 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F55121008,
+            TTL : Palu, 08 April 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F55121034,
+            TTL : Palu, 27 Oktober 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F551210005,
+            TTL : Palu, 21 Agustus 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+        <item>NIM : F55121003,
+            TTL : Palu, 08 Desember 2003,
+            Pendidikan : S1 Teknik Informatika</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/wahid_radikal_akhlak</item>
+        <item>@drawable/fajrin</item>
+        <item>@drawable/hairul</item>
+        <item>@drawable/syarif</item>
+        <item>@drawable/ryhan</item>
+        <item>@drawable/zukhruf</item>
+        <item>@drawable/edward</item>
+        <item>@drawable/fauzy</item>
+    </array>
+</resources>
